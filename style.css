@@ -139,20 +139,32 @@ h5 {
     text-decoration: underline;
 }
 
-ul {
-    text-align: center;
-    color: white;
-    font-family:Arial, Helvetica, sans-serif;
+
+.polysquare {
     background-color: rgb(82, 82, 143);
-    font-size: 12px;
+    height: 955px;
+    width: 90%;
+    text-align: center;
 }
 
+.pythsquare { 
+    background-color: rgb(82, 82, 143);
+    height: 955px;
+    width: 90%;
+    text-align: center;
+}
 .y11p p {
     margin-top: 0px;
     text-align: center;
     color: white;
     font-family:Arial, Helvetica, sans-serif;
-    background-color: rgb(82, 82, 143);
+    font-size: 12px;
+}
+.y11p li {
+    margin-top: 0px;
+    text-align: center;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 12px;
 }
 
